@@ -32,7 +32,7 @@ Concurrency(single-core):
 - Running 2 or more programs in non overlapping time phases
 - At any given time, only one process undergoes execution
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ff422832-9ed3-4f00-a2a6-f6ae7c812aab/Untitled.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ff422832-9ed3-4f00-a2a6-f6ae7c812aab/Untitled.png
 
 Parallel Execution (multi-core):
 
